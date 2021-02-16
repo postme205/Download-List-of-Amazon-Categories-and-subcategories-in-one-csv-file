@@ -16,6 +16,7 @@ Website : https://amazon-categories-sub-categories-list.blogspot.com/
 
 * CSV Support.
 * SQL Tree Hierarchy Ready ( see example in website )  
+* Updated Frequently.
 
 ## Ok. understood. How much it costs and where are the goods ? 
 
