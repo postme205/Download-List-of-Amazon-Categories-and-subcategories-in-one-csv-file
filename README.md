@@ -1,12 +1,12 @@
 # Get List of Amazon Departments, Categories And Sub Categories in one CSV File
 
 
-Example File : https://bit.ly/amazon_categories_100_rows_example_csv
+CSV Example File ( 100 rows only ) : https://bit.ly/amazon_categories_100_rows_example_csv
 
 Website : https://amazon-categories-sub-categories-list.blogspot.com/
 
+![alt text](https://www.dropbox.com/s/5rjv3fhsr0vx7f5/ListOfCsvSmall.jpg?dl=1)
 
-* [Getting started](#getting-started)
 
 ## What this is all about ?
 
