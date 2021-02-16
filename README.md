@@ -18,9 +18,8 @@ Website : https://amazon-categories-sub-categories-list.blogspot.com/
 * SQL Tree Hierarchy Ready ( see example in website )  
 * Updated Frequently.
 
-## Ok. understood. How much it costs and where are the goods ? 
+## Understood. How much it costs ? and where are the goods ? 
 
-* 10$.
-* Website ( https://amazon-categories-sub-categories-list.blogspot.com/ )
-  or
-* Through direct PayPal link : http://bit.ly/amz_full_list_csv_PayPal
+* 10$ - Through direct PayPal link : http://bit.ly/amz_full_list_csv_PayPal
+* PayPal Link in Website ( https://amazon-categories-sub-categories-list.blogspot.com/ )
+
