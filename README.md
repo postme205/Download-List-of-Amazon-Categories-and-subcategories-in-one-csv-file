@@ -5,7 +5,7 @@ CSV Example File ( 100 rows only ) : https://bit.ly/amazon_categories_100_rows_e
 
 Website : https://amazon-categories-sub-categories-list.blogspot.com/
 
-![alt text](https://github.com/postme205/Download-List-of-Amazon-Categories-and-subcategories-in-one-csv-file/blob/dist/images/ListOfCsvSmall.jpg?raw=true)
+![Image show ](https://github.com/postme205/Download-List-of-Amazon-Categories-and-subcategories-in-one-csv-file/blob/main/dist/images/ListOfCsvSmall.jpg?raw=true)
 
 ## What this is all about ?
 
