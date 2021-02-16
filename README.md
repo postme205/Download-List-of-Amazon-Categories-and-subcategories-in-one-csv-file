@@ -21,4 +21,6 @@ Website : https://amazon-categories-sub-categories-list.blogspot.com/
 ## Ok. understood. How much it costs and where are the goods ? 
 
 * 10$.
-* in website ( https://amazon-categories-sub-categories-list.blogspot.com/ ) or through direct PayPal link : http://bit.ly/amz_full_list_csv_PayPal
+* Website ( https://amazon-categories-sub-categories-list.blogspot.com/ )
+  or
+* Through direct PayPal link : http://bit.ly/amz_full_list_csv_PayPal
