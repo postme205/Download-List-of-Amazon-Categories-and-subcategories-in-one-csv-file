@@ -5,7 +5,6 @@ CSV Example File ( 100 rows only ) : https://bit.ly/amazon_categories_100_rows_e
 
 Website : https://amazon-categories-sub-categories-list.blogspot.com/
 
-![alt text](https://www.dropbox.com/s/5rjv3fhsr0vx7f5/ListOfCsvSmall.jpg?dl=1)
 
 
 ## What this is all about ?
