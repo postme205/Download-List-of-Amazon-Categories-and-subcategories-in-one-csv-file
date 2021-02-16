@@ -1,12 +1,24 @@
-# Switch
+# Get List of Amazon Departments, Categories And Sub Categories in one CSV File
 
-A landing page template.
+
+Example File : https://bit.ly/amazon_categories_100_rows_example_csv
+
+Website : https://amazon-categories-sub-categories-list.blogspot.com/
+
 
 * [Getting started](#getting-started)
 
-## Getting started
-* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
-* Next, use your command line to enter your project directory.
-* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
+## What this is all about ?
 
-You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
+* Looking for a full list of Amazon Departments, Categories, Sub Categories with there links that is up to date ?
+* Whether you are a software developer, marketer, amazon Seller / consumer, you may use this csv and import it to you DB.
+
+## Keypoints :
+
+* CSV Support.
+* SQL Tree Hierarchy Ready ( see example in website )  
+
+## Ok. understood. How much it costs and where are the goods ? 
+
+* 10$.
+* in website ( https://amazon-categories-sub-categories-list.blogspot.com/ ) or through direct PayPal link : http://bit.ly/amz_full_list_csv_PayPal
